@@ -13,5 +13,7 @@ As I continue my journey in Full Stack development, I'm always on the lookout fo
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
+## Hobbies
+- Dancing: ...
 
 
